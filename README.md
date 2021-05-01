@@ -1,2 +1,2 @@
 # VBA-Challenge
-VBA Stock Market Analysis Homework
+VBA Stock Market Analysis
