@@ -5,19 +5,18 @@ For this challenge I used VBA in Excel to assess the annual performance of over 
 
 From this analysis I found the following conclusions on for each year:
 
-**2014: **
-Greatest % Increase	DM	5581.16%
-Greatest % Decrease	CBO	-95.73%
-Greatest Total Volume	BAC	21595474700
+**2014:**
+Greatest % Increase:	DM	5581.16%
+Greatest % Decrease:	CBO	-95.73%
+Greatest Total Volume:	BAC	21,595,474,700
 
 
 **2015:**
-Greatest % Increase	ARR	491.30%
-Greatest % Decrease	KMI.W	-98.59%
-Greatest Total Volume	BAC	21277761900![image](https://user-images.githubusercontent.com/26308909/119279882-42f11c00-bbe3-11eb-8deb-5c6a4c3415a7.png)
+Greatest % Increase:	ARR	491.30%
+Greatest % Decrease:	KMI.W	-98.59%
+Greatest Total Volume:	BAC	21,277,761,900
 
-2016:
-Ticker	Value
-Greatest % Increase	SD	11675.00%
-Greatest % Decrease	DYN.W	-91.49%
-Greatest Total Volume	BAC	27428529600![image](https://user-images.githubusercontent.com/26308909/119279888-4be1ed80-bbe3-11eb-9b3f-1c03c28cb8ea.png)
+**2016:**
+Greatest % Increase:	SD	11675.00%
+Greatest % Decrease:	DYN.W	-91.49%
+Greatest Total Volume:	BAC	27,428,529,600
