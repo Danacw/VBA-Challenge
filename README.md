@@ -5,14 +5,13 @@ For this challenge I used VBA in Excel to assess the annual performance of over 
 
 From this analysis I found the following conclusions on for each year:
 
-2014: 
-Ticker	Value
+**2014: **
 Greatest % Increase	DM	5581.16%
 Greatest % Decrease	CBO	-95.73%
-Greatest Total Volume	BAC	21595474700![image](https://user-images.githubusercontent.com/26308909/119279866-2bb22e80-bbe3-11eb-91a7-45bdf1a7a9d6.png)
+Greatest Total Volume	BAC	21595474700
 
-2015:
-Ticker	Value
+
+**2015:**
 Greatest % Increase	ARR	491.30%
 Greatest % Decrease	KMI.W	-98.59%
 Greatest Total Volume	BAC	21277761900![image](https://user-images.githubusercontent.com/26308909/119279882-42f11c00-bbe3-11eb-8deb-5c6a4c3415a7.png)
